@@ -38,4 +38,5 @@ int main()
 
     float bmi = hitungBMI (berat, tinggi);
 
+    cout << "\nNilai BMI : " << bmi << endl;
     
