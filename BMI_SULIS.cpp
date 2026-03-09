@@ -32,3 +32,10 @@ string statusBMI (float bmi)
         
 }
 
+int main() 
+{
+    inputData();
+
+    float bmi = hitungBMI (berat, tinggi);
+
+    
